@@ -1,1 +1,3 @@
-# first_app
+# README
+
+It only my first step.

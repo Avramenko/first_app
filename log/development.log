@@ -1,0 +1,21 @@
+Started GET "/" for 127.0.0.1 at 2018-01-11 23:17:13 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/roman/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/roman/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.7ms)
+Completed 200 OK in 303ms (Views: 25.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-12 00:16:05 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/roman/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/roman/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 145ms (Views: 4.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-12 00:16:06 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/roman/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/roman/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.6ms)
+Completed 200 OK in 7ms (Views: 5.2ms)
+
+
